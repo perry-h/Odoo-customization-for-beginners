@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog to share experience with Odoo customization for beginners "
+title: "Welcome to my blog to share experience with Odoo customization for beginners"
 theme: minima
 ---
 
